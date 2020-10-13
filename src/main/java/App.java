@@ -4,5 +4,8 @@ public class App {
         System.out.println("Aimee was here.");
 
         //Link to this comment.
+
+        System.out.println("Whats the object-oriented way to become wealthy?");
+        System.out.println("Inheritance");
     }
 }
